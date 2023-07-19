@@ -10,7 +10,7 @@ description: This page contains information about the road to the accommodation 
             <th>Driver</th>
             <th>Departure to the location</th>
             <th>Free Seats</th>
-            <th>Departure home</th>
+            <th>Departure to home</th>
             <th>Free Seats</th>
             <th>Taking bicycle</th>
         </tr>
@@ -29,23 +29,101 @@ description: This page contains information about the road to the accommodation 
             <td>Saturday</td>
             <td>3</td>
             <td>Sunday</td>
-            <td>3</td>
-            <td>No</td>
+            <td>2</td>
+            <td>Yes</td>
         </tr>
         <tr>
             <td>John Smith</td>
             <td>Friday</td>
             <td>4</td>
             <td>Sunday</td>
-            <td>2</td>
-            <td>Yes</td>
+            <td>3</td>
+            <td>no</td>
         </tr>
     </tbody>
 </table>
 
 ## Seats
 
-insert table here
+### Road to there
+<table>
+    <thead>
+        <tr>
+            <th>Driver</th>
+            <th>Passenger 1</th>
+            <th>Passenger 2</th>
+            <th>Passenger 3</th>
+            <th>Passenger 4</th>
+            <th>Passenger 5</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>John Doe</td>
+            <td>Sammy</td>
+            <td>Judy</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Jane Doe</td>
+            <td>Michael</td>
+            <td>Leo</td>
+            <td>Bicycle</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>John Smith</td>
+            <td>Sam</td>
+            <td>Dean</td>
+            <td>Bob</td>
+            <td>Crowley</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+### Road back
+<table>
+    <thead>
+        <tr>
+            <th>Driver</th>
+            <th>Passenger 1</th>
+            <th>Passenger 2</th>
+            <th>Passenger 3</th>
+            <th>Passenger 4</th>
+            <th>Passenger 5</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>John Doe</td>
+            <td>Sammy</td>
+            <td>Judy</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Jane Doe</td>
+            <td>Michael</td>
+            <td>Leo</td>
+            <td>Bicycle</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>John Smith</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
 
 ## Expenses
 
@@ -81,5 +159,3 @@ insert table here
         </tr>
     </tbody>
 </table>
-
-- Read [about reference](https://diataxis.fr/reference/) in the Diátaxis framework
