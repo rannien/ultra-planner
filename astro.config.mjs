@@ -6,9 +6,6 @@ export default defineConfig({
   integrations: [
     starlight({
       title: 'Ultra Planner',
-      social: {
-        github: 'https://github.com/withastro/starlight',
-      },
       sidebar: [
         {
           label: 'Start Here',
