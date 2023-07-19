@@ -1,10 +1,26 @@
 ---
 title: Company list
-description: A reference page in my new Starlight docs site.
+description: This page contains information about useful tools and accessories to bring to the competition.
 ---
 
-Reference pages are ideal for outlining how things work in terse and clear terms.
-Less concerned with telling a story or addressing a specific use case, they should give a comprehensive outline of what your documenting.
+Here is a list of few things to bring from the company:
+<ul>
+    <li>
+        <label><input type="checkbox" /> Laptop</label>
+    </li>
+    <li>
+        <label><input type="checkbox" /> Phone</label>
+    </li>
+    <li>
+        <label><input type="checkbox" /> Headlight</label>
+    </li>
+    <li>
+        <label><input type="checkbox" /> Batteries</label>
+    </li>
+    <li>
+        <label><input type="checkbox" /> Blanket</label>
+    </li>
+</ul>
 
 ## Further reading
 
