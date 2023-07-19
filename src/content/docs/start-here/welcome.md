@@ -1,11 +1,6 @@
 ---
 title: Welcome
-description: A guide in my new Starlight docs site.
+description: A guide to survive an Ultramarathon without stress.
 ---
 
-Guides lead a user through a specific task they want to accomplish, often with a sequence of steps.
-Writing a good guide requires thinking about what your users are trying to do.
-
-## Further reading
-
-- Read [about how-to guides](https://diataxis.fr/how-to-guides/) in the Diátaxis framework
+Feel free to check the information listed here on this site to make everything clear and know all you have to bring and do in order to complete the Ultramathon weekend with a team.
