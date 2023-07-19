@@ -131,7 +131,7 @@ description: This page contains information about the road to the accommodation 
 
 **Fyred Villa Üdülőpark és Rendezvényház**
 
-<address>5350 Tiszafüred, Örvényi út 7.</address>
+<address>5350 Tiszafüred, Örömóda út 1.</address>
 
 <table>
     <thead>
