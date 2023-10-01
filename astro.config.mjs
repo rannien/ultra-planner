@@ -5,21 +5,35 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
   integrations: [
     starlight({
-      title: 'My Docs',
-      social: {
-        github: 'https://github.com/withastro/starlight',
-      },
+      title: 'Ultra Planner',
       sidebar: [
         {
-          label: 'Guides',
-          items: [
-            // Each item here is one entry in the navigation menu.
-            { label: 'Example Guide', link: '/guides/example/' },
-          ],
+          label: 'Start Here',
+          autogenerate: { directory: 'start-here' },
         },
         {
-          label: 'Reference',
-          autogenerate: { directory: 'reference' },
+          label: 'Participants',
+          link: '/participants',
+        },
+        {
+          label: 'Accommodation and Travel',
+          link: 'accommodation-and-travel',
+        },
+        {
+          label: 'Packing and shopping list',
+          link: 'packing-and-shopping-list',
+        },
+        {
+          label: 'Company List',
+          link: 'company-list',
+        },
+        {
+          label: 'Sections',
+          link: 'sections',
+        },
+        {
+          label: 'Scenarios',
+          autogenerate: { directory: 'scenarios' },
         },
       ],
     }),
